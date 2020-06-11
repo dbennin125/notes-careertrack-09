@@ -15,4 +15,4 @@
 
 ### Middleware
 4 types: document middleware, model middleware, aggregate middleware, and query middleware.   
-Middleware are functions used during asynchronous functions. 
+Middleware are functions used during asynchronous functions. There are pre and post hooks which I'm sure will make more sense once we use them. 
